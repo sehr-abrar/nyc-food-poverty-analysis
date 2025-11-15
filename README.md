@@ -18,7 +18,7 @@ This project aims to analyze and predict neighborhood-level poverty in New York 
 All project materials are organized for reproducibility and review:  
 - **`data`:** Raw and merged datasets used in analysis.  
 - **`notebooks`:** Jupyter notebooks containing data preprocessing, exploratory data analysis (EDA), visualizations, and modeling.  
-- **`documents`:** Presentations.  
+- **`documents`:** Presentations and papers.  
 
 ---
 

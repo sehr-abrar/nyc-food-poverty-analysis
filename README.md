@@ -48,9 +48,7 @@ Project presentation and demonstration video: [Link to Video](https://drive.goog
   - NumPy documentation: [https://numpy.org/doc/](https://numpy.org/doc/)  
   - Matplotlib documentation: [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)  
   - Seaborn documentation: [https://seaborn.pydata.org/](https://seaborn.pydata.org/)  
-  - Exploratory Data Analysis techniques: [Kaggle Guide](https://www.kaggle.com/learn/data-analysis)  
   - Feature Engineering & Feature Importance: [Feature Engineering Guide](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)  
-  - Predictive Modeling Guide: [Towards Data Science](https://towardsdatascience.com/predictive-modeling-a-comprehensive-guide-70e6d8a057a9)  
   - Handling Missing Data in Machine Learning: [Scikit-learn Imputation](https://scikit-learn.org/stable/modules/impute.html)  
 
 - Articles on poverty prediction, policy applications, and food assistance:  
@@ -58,9 +56,7 @@ Project presentation and demonstration video: [Link to Video](https://drive.goog
   - World Bank Report: [Poverty & Inequality](https://www.worldbank.org/en/topic/poverty)  
   - UN Food & Agriculture Organization: [Food Security and Poverty](https://www.fao.org/poverty/en/)  
   - Journal of Policy Analysis and Management: [Poverty Mapping & Policy Targeting](https://onlinelibrary.wiley.com/journal/15206688)  
-  - Brookings Institution: [Urban Poverty in the U.S.](https://www.brookings.edu/research/urban-poverty-in-the-united-states/)  
   - NYC Food Assistance Study: [NYC Hunger Report](https://www.nycfoodpolicy.org/hunger/)  
-  - Data-driven policy interventions: [Using Machine Learning to Target Poverty](https://www.sciencedirect.com/science/article/pii/S0167268117300907)  
 
 ---
 
